@@ -1,6 +1,6 @@
 # [Student Name]'s Digital Portfolio - [School Year]
 
-[avatar}(https://readyplayer.me/gallery/65e644acc27c34a2f1efecdc-ap2Zx0jpeg)
+[avatar](https://readyplayer.me/gallery/65e644acc27c34a2f1efecdc-ap2Zx0jpeg)
 
 ## 1. Introduction:
    - Brief introduction about the student, their interests, and goals for the year.
